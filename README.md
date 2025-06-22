@@ -1,4 +1,11 @@
-## Hi there 👋
+## Bloo Guy is here!
+Though I'm a musician, I'm learning to code as well.
+
+### Languages I know:
+
+[![My Skills](https://skillicons.dev/icons?i=haxe,python)](https://skillicons.dev)
+
+Don't ask me to code anything for you lol, my code is awful :P
 
 <!--
 **LVBM1/LVBM1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
